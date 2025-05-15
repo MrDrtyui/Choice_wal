@@ -19,7 +19,7 @@ Make sure all are installed and available in your system PATH.
 1. Clone the repository:
 
 ```bash
-rit clone https://github.com/MrDrtyui/Choice_wal
+git clone https://github.com/MrDrtyui/Choice_wal
 cd Choice_wal
 ```
 
