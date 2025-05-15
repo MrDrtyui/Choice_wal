@@ -45,6 +45,10 @@ Run the function with your wallpapers directory:
 ```bash
 ./choice_wall
 ```
+or alias
+```bash
+changewall
+```
 
 This will open a wofi file picker to select a wallpaper. Terminal colors will update automatically.
 
