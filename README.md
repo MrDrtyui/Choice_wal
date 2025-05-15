@@ -43,7 +43,7 @@ Select your patch with images in the choice_wall file.
 Run the function with your wallpapers directory:
 
 ```bash
-choice_wall
+./choice_wall
 ```
 
 This will open a wofi file picker to select a wallpaper. Terminal colors will update automatically.
