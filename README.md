@@ -19,8 +19,8 @@ Make sure all are installed and available in your system PATH.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+rit clone https://github.com/MrDrtyui/Choice_wal
+cd Choice_wal
 ```
 
 ## Configuration
